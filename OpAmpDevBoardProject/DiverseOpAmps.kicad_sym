@@ -130,7 +130,7 @@
 				)
 			)
 			(pin passive line
-				(at 2.6613 -8.6415 90)
+				(at 2.54 -8.89 90)
 				(length 5.08)
 				(name "Sleep"
 					(effects
@@ -166,8 +166,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.0814 -9.0507 90)
-				(length 6.35)
+				(at 5.08 -8.89 90)
+				(length 6)
 				(name "Div1"
 					(effects
 						(font
@@ -184,8 +184,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.0834 9.01 270)
-				(length 6.35)
+				(at 5.08 8.89 270)
+				(length 6)
 				(name "Div2"
 					(effects
 						(font
@@ -202,8 +202,8 @@
 				)
 			)
 			(pin power_in line
-				(at -0.0043 -8.3726 90)
-				(length 3.81)
+				(at 0 -8.89 90)
+				(length 4.3)
 				(name "V-"
 					(effects
 						(font
@@ -256,8 +256,8 @@
 				)
 			)
 			(pin power_in line
-				(at -0.0223 8.3223 270)
-				(length 3.81)
+				(at 0 8.89 270)
+				(length 4.3)
 				(name "V+"
 					(effects
 						(font
@@ -274,7 +274,7 @@
 				)
 			)
 			(pin passive line
-				(at 2.5494 8.6332 270)
+				(at 2.54 8.89 270)
 				(length 5.08)
 				(name "Act"
 					(effects

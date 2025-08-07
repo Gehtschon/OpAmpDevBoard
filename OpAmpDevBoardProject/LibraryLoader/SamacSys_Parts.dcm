@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 227161-2
+D Body Features: Body Plating Material Nickel | Body Material VALOX | Configuration Features: PCB Mount Orientation Right Angle | Number of Positions 1 | Number of Coaxial Contacts 1 | Contact Features: RF Connector Center Contact Plating Material Tin | RF Connector Center Contact Plating Thickness 5080 MICIN | RF Connector Center Contact Underplating Material Nickel | RF Connector Center Contact Material Phosphor Bronze | Dimensions: Profile Height from PCB 15.88 MM | RF Connector Mated Outer Diameter (Appro
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=227161&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=227161-2
+$ENDCMP
+#
+#End Doc Library
