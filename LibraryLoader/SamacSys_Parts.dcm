@@ -18,4 +18,10 @@ K
 F https://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
 $ENDCMP
 #
+$CMP SS22SDP2
+D Switch Slide ON None ON DPDT Top Slide 0.1A 30VDC 10000Cycles PC Pins Thru-Hole
+K
+F https://www.nkkswitches.com.hk/user/pdf-download/SS22SDP2
+$ENDCMP
+#
 #End Doc Library
