@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OpAmpBoard_Mouser")(type "KiCad")(uri "${KIPRJMOD}/../OpAmpDevBoardProject/LibraryLoader/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "OpAmpBoard")(type "KiCad")(uri "${KIPRJMOD}/../OpAmpDevBoardProject/DiverseOpAmps.kicad_sym")(options "")(descr ""))
+)

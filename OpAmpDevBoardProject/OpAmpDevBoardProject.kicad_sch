@@ -2540,12 +2540,6 @@
 		(uuid "16bdb20d-e0a7-43b7-ae7e-9e9433a153b5")
 	)
 	(junction
-		(at 83.82 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1706f687-0870-4537-af71-9ee1931ede66")
-	)
-	(junction
 		(at 146.05 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2592,6 +2586,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3909b09c-c7f5-4fde-a35d-a615b7b12ed0")
+	)
+	(junction
+		(at 220.98 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bc69cbc-f3c2-4dda-8d67-3baf78a9665a")
 	)
 	(junction
 		(at 175.26 170.18)
@@ -2702,12 +2702,6 @@
 		(uuid "5f261f23-ae2a-45a6-8d5b-4a5f30ae36a4")
 	)
 	(junction
-		(at 220.98 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6227eff9-d35d-4fba-9a0c-b55682930e22")
-	)
-	(junction
 		(at 123.19 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2720,22 +2714,28 @@
 		(uuid "667e388c-6083-4873-b0c7-f9f38c51d67b")
 	)
 	(junction
+		(at 101.6 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6709353b-bdf6-46fa-b10e-2203ca9b6705")
+	)
+	(junction
 		(at 172.72 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6716c06d-cbe9-4858-81cf-bcf44cc88636")
 	)
 	(junction
-		(at 220.98 63.5)
+		(at 220.98 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a88b4ee-40cd-4baa-b96e-44224211c336")
 	)
 	(junction
-		(at 121.92 124.46)
+		(at 83.82 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "70089c7f-f2da-4624-8cf4-e9ae0ef72b6a")
+		(uuid "6b4496e4-ef1c-45b4-9e13-effa59275de1")
 	)
 	(junction
 		(at 273.05 77.47)
@@ -2802,6 +2802,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95bdca9d-e1d5-4bd8-b7b4-3e6947e81ef0")
+	)
+	(junction
+		(at 62.23 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98c1a7b7-b176-49f6-952b-0fd6e00bbaff")
 	)
 	(junction
 		(at 242.57 205.74)
@@ -2894,7 +2900,7 @@
 		(uuid "b6ba7a4b-ad2b-4b79-85a5-24b9f3e0ced7")
 	)
 	(junction
-		(at 220.98 44.45)
+		(at 220.98 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b87c5fec-8198-482b-bf5a-1dd2cd00b1bf")
@@ -2936,12 +2942,6 @@
 		(uuid "c0099270-5b54-48f4-8b0f-d95727f74de4")
 	)
 	(junction
-		(at 59.69 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3b09163-1aef-48ca-aae3-9e743ba07047")
-	)
-	(junction
 		(at 101.6 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2976,6 +2976,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc35c068-f241-46cc-9bde-bcdfff60568a")
+	)
+	(junction
+		(at 242.57 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de7a2e5e-13f2-4afd-95d3-c501f58dff09")
+	)
+	(junction
+		(at 121.92 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0c1bcbb-d84f-447b-aa9e-f6e8aa9746b0")
 	)
 	(junction
 		(at 91.44 170.18)
@@ -3054,12 +3066,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f33a5c84-f02a-4593-95ae-eae6ad4c2c79")
-	)
-	(junction
-		(at 100.33 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f443a135-ff56-456c-a0f4-354d67ebe6db")
 	)
 	(junction
 		(at 91.44 120.65)
@@ -3201,16 +3207,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 130.81) (xy 59.69 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a8b5667-2ce7-4643-ab08-f177ef077993")
-	)
-	(wire
-		(pts
 			(xy 232.41 99.06) (xy 242.57 99.06)
 		)
 		(stroke
@@ -3221,7 +3217,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 44.45) (xy 220.98 44.45)
+			(xy 214.63 34.29) (xy 220.98 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3241,7 +3237,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 63.5) (xy 242.57 63.5)
+			(xy 240.03 53.34) (xy 242.57 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3258,6 +3254,16 @@
 			(type default)
 		)
 		(uuid "0d4a159f-b1e5-411d-83bd-e2bde82def02")
+	)
+	(wire
+		(pts
+			(xy 224.79 66.04) (xy 226.06 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e0d98db-6ab2-4ec0-9f7d-7ce20a0fea8b")
 	)
 	(wire
 		(pts
@@ -3281,7 +3287,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 76.2) (xy 220.98 85.09)
+			(xy 220.98 53.34) (xy 220.98 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3451,16 +3457,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 129.54) (xy 83.82 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23987830-36ab-485f-85ad-0a6b6dea4a4b")
-	)
-	(wire
-		(pts
 			(xy 242.57 160.02) (xy 275.59 160.02)
 		)
 		(stroke
@@ -3491,13 +3487,33 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 76.2) (xy 220.98 63.5)
+			(xy 234.95 80.01) (xy 242.57 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2b5e90f9-49f3-45ca-a6b3-bab0ed7490fb")
+		(uuid "26e200be-3bc9-4189-99ac-3dc73c4599c5")
+	)
+	(wire
+		(pts
+			(xy 116.84 125.73) (xy 101.6 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "288d6b55-072f-41e4-8d27-e16cd2d0ad93")
+	)
+	(wire
+		(pts
+			(xy 234.95 66.04) (xy 233.68 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c125a80-6d21-4604-b713-8b9ed1e746ec")
 	)
 	(wire
 		(pts
@@ -3541,7 +3557,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 52.07) (xy 214.63 44.45)
+			(xy 214.63 41.91) (xy 214.63 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3581,7 +3597,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 44.45) (xy 220.98 43.18)
+			(xy 220.98 34.29) (xy 220.98 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3691,7 +3707,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 63.5) (xy 220.98 62.23)
+			(xy 220.98 53.34) (xy 220.98 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3728,6 +3744,16 @@
 			(type default)
 		)
 		(uuid "3e0e2f59-6a1d-4c7f-a701-019f6e3ec2ad")
+	)
+	(wire
+		(pts
+			(xy 80.01 139.7) (xy 78.74 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e3b3f21-05a9-434c-92f5-8d468ef8d301")
 	)
 	(wire
 		(pts
@@ -3821,23 +3847,13 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 63.5) (xy 242.57 85.09)
+			(xy 242.57 53.34) (xy 242.57 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "45f9ed75-e2f9-44c1-be43-ae01531ebb9d")
-	)
-	(wire
-		(pts
-			(xy 121.92 128.27) (xy 121.92 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4620e53d-a833-4fae-a1f1-1c8c6d5f3570")
 	)
 	(wire
 		(pts
@@ -3941,7 +3957,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 63.5) (xy 229.87 63.5)
+			(xy 228.6 53.34) (xy 229.87 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4071,6 +4087,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 125.73) (xy 101.6 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b8051e-a30e-4392-a122-87c4a6381bb3")
+	)
+	(wire
+		(pts
 			(xy 113.03 166.37) (xy 123.19 166.37)
 		)
 		(stroke
@@ -4091,23 +4117,13 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 52.07) (xy 220.98 50.8)
+			(xy 220.98 41.91) (xy 220.98 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6b959178-d457-49a6-92b0-055abe2ef365")
-	)
-	(wire
-		(pts
-			(xy 96.52 120.65) (xy 100.33 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c20c3b1-9978-4c53-97f5-5e914a66658b")
 	)
 	(wire
 		(pts
@@ -4121,7 +4137,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 120.65) (xy 62.23 120.65)
+			(xy 46.99 120.65) (xy 62.23 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4228,16 +4244,6 @@
 			(type default)
 		)
 		(uuid "786689f5-55c8-49bb-93ba-edb4406b906b")
-	)
-	(wire
-		(pts
-			(xy 228.6 80.01) (xy 229.87 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78cd82db-8a31-4da6-aab3-5b50371ee18a")
 	)
 	(wire
 		(pts
@@ -4381,7 +4387,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 63.5) (xy 223.52 63.5)
+			(xy 220.98 53.34) (xy 223.52 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4621,6 +4627,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 125.73) (xy 62.23 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fc196a9-2202-4710-a9df-cad2e8125b9c")
+	)
+	(wire
+		(pts
 			(xy 40.64 120.65) (xy 41.91 120.65)
 		)
 		(stroke
@@ -4648,16 +4664,6 @@
 			(type default)
 		)
 		(uuid "a3ec37e2-65ec-448d-8008-cc540f528bed")
-	)
-	(wire
-		(pts
-			(xy 100.33 132.08) (xy 109.22 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a63945b8-7e12-4bab-a6d2-5475ca6f9d45")
 	)
 	(wire
 		(pts
@@ -4741,6 +4747,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 80.01) (xy 220.98 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab06aa16-adaf-4dca-96fb-e639a169c9f5")
+	)
+	(wire
+		(pts
 			(xy 160.02 170.18) (xy 165.1 170.18)
 		)
 		(stroke
@@ -4781,6 +4797,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 125.73) (xy 62.23 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aedf5321-58a9-4d2e-974c-484a9717eda1")
+	)
+	(wire
+		(pts
 			(xy 96.52 180.34) (xy 96.52 185.42)
 		)
 		(stroke
@@ -4808,6 +4834,16 @@
 			(type default)
 		)
 		(uuid "b0eaa280-f695-4c6c-95d9-1ce6ccbcb317")
+	)
+	(wire
+		(pts
+			(xy 234.95 69.85) (xy 234.95 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b20420aa-5626-4d56-8525-c72c033cc10c")
 	)
 	(wire
 		(pts
@@ -4921,7 +4957,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 120.65) (xy 101.6 120.65)
+			(xy 96.52 120.65) (xy 101.6 120.65)
 		)
 		(stroke
 			(width 0)
@@ -5001,6 +5037,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 139.7) (xy 116.84 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc623934-42d5-4106-ba0c-6aa8b777b56e")
+	)
+	(wire
+		(pts
 			(xy 280.67 77.47) (xy 280.67 86.36)
 		)
 		(stroke
@@ -5051,7 +5097,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 63.5) (xy 220.98 63.5)
+			(xy 214.63 53.34) (xy 220.98 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5061,17 +5107,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 133.35) (xy 67.31 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0135133-9595-461e-a057-afb38894df51")
-	)
-	(wire
-		(pts
-			(xy 214.63 62.23) (xy 214.63 63.5)
+			(xy 214.63 52.07) (xy 214.63 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5121,13 +5157,13 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 120.65) (xy 59.69 120.65)
+			(xy 121.92 124.46) (xy 121.92 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d5ebab39-e3c0-4db1-93e3-5d551a6abf74")
+		(uuid "d58219a4-011e-4301-b4ef-b26fc1723ec8")
 	)
 	(wire
 		(pts
@@ -5171,6 +5207,26 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 124.46) (xy 83.82 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9a5bbd1-1e2b-4aa0-9447-3ebc78b809de")
+	)
+	(wire
+		(pts
+			(xy 78.74 135.89) (xy 78.74 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9e62521-effa-480f-82e2-608b08395252")
+	)
+	(wire
+		(pts
 			(xy 175.26 160.02) (xy 175.26 158.75)
 		)
 		(stroke
@@ -5178,6 +5234,16 @@
 			(type default)
 		)
 		(uuid "db1c837f-a6e5-4525-a309-683bcd62aaeb")
+	)
+	(wire
+		(pts
+			(xy 116.84 135.89) (xy 116.84 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db800471-2d6d-48be-9965-0126e45fe065")
 	)
 	(wire
 		(pts
@@ -5241,7 +5307,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 45.72) (xy 220.98 44.45)
+			(xy 220.98 35.56) (xy 220.98 34.29)
 		)
 		(stroke
 			(width 0)
@@ -5311,6 +5377,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 80.01) (xy 242.57 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5964d25-c47f-4e8c-a7b0-181fe4d66a44")
+	)
+	(wire
+		(pts
 			(xy 179.07 170.18) (xy 185.42 170.18)
 		)
 		(stroke
@@ -5358,6 +5434,16 @@
 			(type default)
 		)
 		(uuid "eaf4cd49-78ab-4ea1-aa70-11cc5e57616c")
+	)
+	(wire
+		(pts
+			(xy 220.98 80.01) (xy 229.87 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb80206c-ba18-46af-b9ae-a9b2addcf235")
 	)
 	(wire
 		(pts
@@ -5411,16 +5497,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 128.27) (xy 121.92 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f158d795-83d5-4349-8d6b-37585ebac015")
-	)
-	(wire
-		(pts
 			(xy 87.63 170.18) (xy 91.44 170.18)
 		)
 		(stroke
@@ -5441,16 +5517,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 130.81) (xy 100.33 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4378538-ea0b-4a30-8d1f-3bc3910ad8e5")
-	)
-	(wire
-		(pts
 			(xy 101.6 170.18) (xy 102.87 170.18)
 		)
 		(stroke
@@ -5461,16 +5527,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 85.09) (xy 240.03 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f657810e-ff39-4717-8add-7c8a246f25d4")
-	)
-	(wire
-		(pts
 			(xy 156.21 120.65) (xy 160.02 120.65)
 		)
 		(stroke
@@ -5478,16 +5534,6 @@
 			(type default)
 		)
 		(uuid "f889cf13-15ca-4e5c-a58d-7a8b74c9a313")
-	)
-	(wire
-		(pts
-			(xy 83.82 129.54) (xy 83.82 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f898496c-2701-4d16-9ae7-1b38d34be704")
 	)
 	(wire
 		(pts
@@ -5508,16 +5554,6 @@
 			(type default)
 		)
 		(uuid "fa54dc4c-8387-403d-a08c-01bfb8e78062")
-	)
-	(wire
-		(pts
-			(xy 220.98 76.2) (xy 224.79 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fae56201-63d3-4a3f-b353-cffa918fa036")
 	)
 	(wire
 		(pts
@@ -6757,73 +6793,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 74.93 133.35 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1df89ca1-7570-4a3b-83d7-16b9569ba027")
-		(property "Reference" "#PWR0119"
-			(at 81.28 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.105 133.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c5af5dfa-574f-433f-8150-0e15f06861b2")
-		)
-		(instances
-			(project "OpAmpDevBoardProject"
-				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
-					(reference "#PWR0119")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 83.82 147.32 90)
 		(mirror x)
@@ -6834,7 +6803,7 @@
 		(dnp no)
 		(uuid "201104a1-e1e8-4cee-ae97-97e516510137")
 		(property "Reference" "RV103"
-			(at 83.82 145.542 0)
+			(at 80.518 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6968,7 +6937,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 220.98 57.15 90)
+		(at 220.98 46.99 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6977,7 +6946,7 @@
 		(dnp no)
 		(uuid "225692ae-932c-4f3d-92bf-757bca5a489b")
 		(property "Reference" "SW128"
-			(at 223.266 60.452 0)
+			(at 223.266 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6986,7 +6955,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 217.6088 57.15 0)
+			(at 217.6088 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6995,7 +6964,7 @@
 			)
 		)
 		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 220.98 57.15 0)
+			(at 220.98 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7004,7 +6973,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 57.15 0)
+			(at 220.98 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7013,7 +6982,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 220.98 57.15 0)
+			(at 220.98 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7106,7 +7075,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 220.98 43.18 0)
+		(at 220.98 33.02 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7116,7 +7085,7 @@
 		(fields_autoplaced yes)
 		(uuid "2384bf1c-71e5-4007-a2c2-d6aefe27d049")
 		(property "Reference" "#PWR0105"
-			(at 220.98 36.83 0)
+			(at 220.98 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7125,7 +7094,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 220.98 39.0469 0)
+			(at 220.98 28.8869 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7133,7 +7102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 43.18 0)
+			(at 220.98 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7142,7 +7111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 43.18 0)
+			(at 220.98 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7151,7 +7120,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 43.18 0)
+			(at 220.98 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7931,6 +7900,81 @@
 		)
 	)
 	(symbol
+		(lib_id "DiverseOpAmps:SS22S")
+		(at 119.38 130.81 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "375c17fb-32a2-4672-be28-55f327446956")
+		(property "Reference" "SW142"
+			(at 114.935 132.0222 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS22S"
+			(at 114.935 129.5979 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OpAmpDevBoard_Mouser:SS22SDP2"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Double Pole Single Throw (DPST) Switch"
+			(at 119.38 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd30e4f5-e175-4b39-acb7-191c5d94cb14")
+		)
+		(pin "4"
+			(uuid "2c6a3a3e-68f3-4688-910c-8cabca9940ca")
+		)
+		(pin "2"
+			(uuid "dce7065d-50c4-4b99-a95a-945e9e5af7f2")
+		)
+		(pin "5"
+			(uuid "6891bc24-c486-411c-a368-7c56d5eaf069")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "SW142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 69.85 124.46 0)
 		(mirror x)
@@ -8267,6 +8311,75 @@
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
 					(reference "SW106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Bridged")
+		(at 224.79 68.58 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "476605ae-7acb-4b66-934f-05299abe05e2")
+		(property "Reference" "JP106"
+			(at 222.6273 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Small_Bridged"
+			(at 222.6272 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 224.79 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 224.79 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7b38188-86c4-478d-a9c3-041ffaaa2c03")
+		)
+		(pin "2"
+			(uuid "4960633b-0acb-4c81-b7e0-31035667ef44")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "JP106")
 					(unit 1)
 				)
 			)
@@ -8955,7 +9068,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 228.6 76.2 180)
+		(at 229.87 66.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8963,7 +9076,7 @@
 		(dnp no)
 		(uuid "5385b584-aaba-4427-a316-6ddc97ce89b2")
 		(property "Reference" "RV102"
-			(at 230.378 76.2 0)
+			(at 232.664 63.246 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8972,7 +9085,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 233.7604 76.2 90)
+			(at 229.87 60.8796 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8981,7 +9094,7 @@
 			)
 		)
 		(property "Footprint" "OpampDeVBoard_Foot_Lib:PTV09A-1_Vertical"
-			(at 228.6 76.2 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8990,7 +9103,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 76.2 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8999,7 +9112,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 228.6 76.2 0)
+			(at 229.87 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9020,6 +9133,81 @@
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
 					(reference "RV102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DiverseOpAmps:SS22S")
+		(at 81.28 130.81 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54aac4e8-a695-4905-8097-1bbe1e56b046")
+		(property "Reference" "SW140"
+			(at 76.835 132.0222 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS22S"
+			(at 76.835 129.5979 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OpAmpDevBoard_Mouser:SS22SDP2"
+			(at 81.28 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Double Pole Single Throw (DPST) Switch"
+			(at 81.28 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf9ead1e-e940-4a70-b044-1ad0d1fa8a13")
+		)
+		(pin "4"
+			(uuid "f4f74cb5-c3a1-413a-bdde-4df3459971c8")
+		)
+		(pin "2"
+			(uuid "39a0fe41-fa3e-42da-a655-d315f274ce53")
+		)
+		(pin "5"
+			(uuid "198a7e43-5a25-49cb-aa92-c1f43ca439ab")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "SW140")
 					(unit 1)
 				)
 			)
@@ -9105,7 +9293,7 @@
 		(dnp no)
 		(uuid "56b8a3f0-ff91-4fb3-8f35-15674172b18e")
 		(property "Reference" "RV104"
-			(at 123.19 145.542 0)
+			(at 119.888 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9843,7 +10031,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 113.03 132.08 90)
+		(at 121.92 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9851,7 +10039,7 @@
 		(dnp no)
 		(uuid "66d1b7ef-a769-49bb-99fe-32c557ae7acf")
 		(property "Reference" "RV107"
-			(at 113.03 133.858 0)
+			(at 119.126 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9860,7 +10048,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 113.03 137.2404 90)
+			(at 121.92 144.8604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9869,7 +10057,7 @@
 			)
 		)
 		(property "Footprint" "OpampDeVBoard_Foot_Lib:PTV09A-1_Vertical"
-			(at 113.03 132.08 0)
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9878,7 +10066,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 132.08 0)
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9887,7 +10075,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 113.03 132.08 0)
+			(at 121.92 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10274,7 +10462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 226.06 218.44 0)
 			(effects
 				(font
@@ -10451,8 +10639,8 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 132.08 90)
-		(mirror x)
+		(at 130.81 139.7 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10460,7 +10648,7 @@
 		(dnp no)
 		(uuid "6f4c5ce6-94d8-45ad-8e6f-68916a65fa32")
 		(property "Reference" "#PWR0120"
-			(at 123.19 132.08 0)
+			(at 130.81 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10469,7 +10657,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.015 132.08 90)
+			(at 132.08 141.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10478,7 +10666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 132.08 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10487,7 +10675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 132.08 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10496,7 +10684,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 132.08 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11742,7 +11930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 129.54 147.32 0)
 			(effects
 				(font
@@ -11856,7 +12044,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 214.63 57.15 90)
+		(at 214.63 46.99 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11865,7 +12053,7 @@
 		(dnp no)
 		(uuid "9d6f152c-d598-45a1-8fa3-191dd4d4cc86")
 		(property "Reference" "SW127"
-			(at 216.662 60.452 0)
+			(at 216.662 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11874,7 +12062,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 211.2588 57.15 0)
+			(at 211.2588 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11883,7 +12071,7 @@
 			)
 		)
 		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 214.63 57.15 0)
+			(at 214.63 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11892,7 +12080,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 57.15 0)
+			(at 214.63 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11901,7 +12089,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 214.63 57.15 0)
+			(at 214.63 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12197,7 +12385,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 226.06 63.5 90)
+		(at 226.06 53.34 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12207,7 +12395,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0ddf930-6191-444a-8571-1daca13d2132")
 		(property "Reference" "C108"
-			(at 226.0663 66.7822 90)
+			(at 226.0663 56.6222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12215,7 +12403,7 @@
 			)
 		)
 		(property "Value" "C_Small"
-			(at 226.0663 66.7823 90)
+			(at 226.0663 56.6223 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12224,7 +12412,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 226.06 63.5 0)
+			(at 226.06 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12233,7 +12421,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 63.5 0)
+			(at 226.06 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12242,7 +12430,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 226.06 63.5 0)
+			(at 226.06 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12537,7 +12725,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 220.98 48.26 0)
+		(at 220.98 38.1 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12547,7 +12735,7 @@
 		(fields_autoplaced yes)
 		(uuid "a675f433-7561-4220-92eb-e5a212b4f740")
 		(property "Reference" "R111"
-			(at 222.4786 48.26 0)
+			(at 222.4786 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12556,7 +12744,7 @@
 			)
 		)
 		(property "Value" "R_Small"
-			(at 223.4368 48.26 90)
+			(at 223.4368 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12565,7 +12753,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 220.98 48.26 0)
+			(at 220.98 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12574,7 +12762,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 48.26 0)
+			(at 220.98 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12583,7 +12771,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 220.98 48.26 0)
+			(at 220.98 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12744,26 +12932,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 234.95 80.01 0)
-		(mirror x)
+		(lib_id "power:GND")
+		(at 92.71 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae59399b-4b8e-470c-b7c7-576eeab48f76")
-		(property "Reference" "SW131"
-			(at 234.95 83.3811 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 234.95 83.3812 0)
+		(uuid "b0993be9-6f06-4000-840f-45819e2b8c15")
+		(property "Reference" "#PWR0118"
+			(at 92.71 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12771,8 +12949,17 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 234.95 80.01 0)
+		(property "Value" "GND"
+			(at 94.488 143.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12780,8 +12967,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 234.95 80.01 0)
+		(property "Datasheet" ""
+			(at 92.71 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12789,8 +12976,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 234.95 80.01 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 92.71 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12799,15 +12986,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e4f5aa98-a5b7-4c2e-b769-a46633189187")
-		)
-		(pin "2"
-			(uuid "c1fc9706-e348-4a58-897a-d0d3f5c970d8")
+			(uuid "bce10de6-7a4c-410f-89e3-33d045c222de")
 		)
 		(instances
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
-					(reference "SW131")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -12947,6 +13131,82 @@
 		)
 	)
 	(symbol
+		(lib_id "DiverseOpAmps:SS22S")
+		(at 232.41 74.93 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b57946f2-d7d1-4d64-b97e-21ea2b1decb7")
+		(property "Reference" "SW131"
+			(at 236.855 76.1422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SS22S"
+			(at 236.855 73.7179 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OpAmpDevBoard_Mouser:SS22SDP2"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Double Pole Single Throw (DPST) Switch"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce563837-dda5-490f-96d1-af0f180abf64")
+		)
+		(pin "4"
+			(uuid "497c1cb8-a8cd-4a21-b3fd-6f6d79ac14aa")
+		)
+		(pin "2"
+			(uuid "6da2eb6b-db7d-4fb1-b2b7-0c55e2eedafc")
+		)
+		(pin "5"
+			(uuid "c31e7736-1614-4780-8cd4-c592ec41de20")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "SW131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 179.07 175.26 270)
 		(mirror x)
@@ -13011,6 +13271,75 @@
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
 					(reference "SW125")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Bridged")
+		(at 128.27 139.7 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8e4036f-4af1-4b98-bb71-5c514a7d3029")
+		(property "Reference" "JP105"
+			(at 128.27 137.5373 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Small_Bridged"
+			(at 128.27 137.5372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 128.27 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 128.27 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb7e52da-c9d9-42af-bf3a-eb30fa115229")
+		)
+		(pin "2"
+			(uuid "9de6356e-d455-4de8-959c-a87b55c186cd")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "JP105")
 					(unit 1)
 				)
 			)
@@ -13218,76 +13547,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 59.69 125.73 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c1075676-6437-4ec8-ae5a-b5794b0cc14b")
-		(property "Reference" "SW142"
-			(at 56.896 122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 56.3188 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 59.69 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 59.69 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2381a315-5b83-4e61-86d2-230a62440aab")
-		)
-		(pin "2"
-			(uuid "7a7ce84e-818e-4a72-9ff3-2c19fddf8790")
-		)
-		(instances
-			(project "OpAmpDevBoardProject"
-				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
-					(reference "SW142")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 78.74 120.65 90)
 		(unit 1)
@@ -13351,6 +13610,75 @@
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
 					(reference "R103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Bridged")
+		(at 90.17 139.7 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c34b7ad1-472e-4d5b-b0a5-fc4ef81ef192")
+		(property "Reference" "JP104"
+			(at 90.17 137.5373 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Small_Bridged"
+			(at 90.17 137.5372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 90.17 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 90.17 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d97dcff3-8109-4f72-b141-00bfc5376736")
+		)
+		(pin "2"
+			(uuid "56bafa52-fc33-4b84-8846-e37542285771")
+		)
+		(instances
+			(project "OpAmpDevBoardProject"
+				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
+					(reference "JP104")
 					(unit 1)
 				)
 			)
@@ -13450,7 +13778,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 234.95 63.5 0)
+		(at 234.95 53.34 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13460,7 +13788,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca05b09e-c2e4-4bd5-8ef7-9f48d73163a0")
 		(property "Reference" "SW132"
-			(at 234.95 66.8711 0)
+			(at 234.95 56.7111 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13468,7 +13796,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 234.95 66.8712 0)
+			(at 234.95 56.7112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13477,7 +13805,7 @@
 			)
 		)
 		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 234.95 63.5 0)
+			(at 234.95 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13486,7 +13814,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 63.5 0)
+			(at 234.95 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13495,7 +13823,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 234.95 63.5 0)
+			(at 234.95 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13520,7 +13848,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 71.12 133.35 90)
+		(at 83.82 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13528,7 +13856,7 @@
 		(dnp no)
 		(uuid "cbcef3c5-536d-4ed1-a2e3-d3155bbcf337")
 		(property "Reference" "RV106"
-			(at 71.12 135.128 0)
+			(at 81.026 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13537,7 +13865,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 71.12 138.5104 90)
+			(at 83.82 144.8604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13546,7 +13874,7 @@
 			)
 		)
 		(property "Footprint" "OpampDeVBoard_Foot_Lib:PTV09A-1_Vertical"
-			(at 71.12 133.35 0)
+			(at 83.82 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13555,7 +13883,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 133.35 0)
+			(at 83.82 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13564,7 +13892,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 71.12 133.35 0)
+			(at 83.82 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13592,17 +13920,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 228.6 72.39 0)
-		(mirror x)
+		(at 224.79 71.12 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d196e4bb-3749-4363-a80e-89e664f5e681")
 		(property "Reference" "#PWR0106"
-			(at 228.6 66.04 0)
+			(at 224.79 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13611,15 +13938,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 228.6 68.2569 0)
+			(at 222.758 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 72.39 0)
+			(at 224.79 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13628,7 +13956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 72.39 0)
+			(at 224.79 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13637,7 +13965,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 228.6 72.39 0)
+			(at 224.79 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13884,7 +14212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 90.17 147.32 0)
 			(effects
 				(font
@@ -14622,7 +14950,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 92.71 150.495 90)
+			(at 94.488 150.622 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14664,76 +14992,6 @@
 			(project "OpAmpDevBoardProject"
 				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
 					(reference "#PWR0116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 100.33 125.73 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f61aefd2-2d46-4494-a801-f53ddcf42533")
-		(property "Reference" "SW143"
-			(at 97.536 122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 96.9588 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "OpAmpDevBoard_Mouser:SS12SDP2"
-			(at 100.33 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 100.33 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 100.33 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb4d031f-4295-4659-a4b5-7aebd7f6acf7")
-		)
-		(pin "2"
-			(uuid "ccc7467c-87e1-4a8e-89ac-547b52227401")
-		)
-		(instances
-			(project "OpAmpDevBoardProject"
-				(path "/5f128d4a-57fe-403d-81a1-6e1ab3f3428d"
-					(reference "SW143")
 					(unit 1)
 				)
 			)
